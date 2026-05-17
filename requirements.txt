@@ -1,0 +1,9 @@
+Flask
+Flask-Login
+Flask-WTF
+SQLAlchemy
+Alembic
+cryptography
+paramiko
+httpx
+WTForms
